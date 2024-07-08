@@ -9,6 +9,8 @@ import getpass
 # this is a 2nd change commited from branch Some_Improvements
 # this line was added from New_Feature1 branch
 # this line was added from branch master
+# this line was added from New_Feature2 branch
+# i kept both the above comments during a merge conflict
 username = input("Enter your username: ")
 password = getpass.getpass("Enter your password: ")
 enable_password = getpass.getpass("Enter your enable password: ")
