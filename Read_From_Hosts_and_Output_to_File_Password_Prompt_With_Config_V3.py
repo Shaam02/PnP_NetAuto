@@ -4,6 +4,7 @@ import getpass
 
 
 # Prompt for credentials
+# this is a change from the master branch
 username = input("Enter your username: ")
 password = getpass.getpass("Enter your password: ")
 enable_password = getpass.getpass("Enter your enable password: ")
