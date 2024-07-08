@@ -5,6 +5,8 @@ import getpass
 
 # Prompt for credentials
 # this is a change from the master branch
+# this line was added from the Some_Improvements branch
+# this is a 2nd change commited from branch Some_Improvements
 username = input("Enter your username: ")
 password = getpass.getpass("Enter your password: ")
 enable_password = getpass.getpass("Enter your enable password: ")
